@@ -1,6 +1,10 @@
-# Shiny-App
 
-See the video link below to understand how to open and upload the ineractive shiny app results using Rstudio.
+Why Do We Need To Control Air Pollution?
 
-Link: https://gmu.zoom.us/rec/share/ZxKFUJbNqDX9gzCKREApyAKXyU1uJb1ucQ92phEqrKX-d9u1OsUTVhF9lRMYt2C2.cF-eYQlYnIP55K2p
-Password:  azjASk^5
+* Air pollution exposure causes 6.67 million premature deaths per year worldwide
+* Air Pollution concentrations causes poor health in the US
+* Disproportionately affect people of colour and low-income populations
+* Research is used to improve emission regulation standards
+
+
+
